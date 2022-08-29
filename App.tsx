@@ -8,7 +8,7 @@ const App: React.FunctionComponent = () => {
     <>
       <StatusBar
         barStyle={'light-content'}
-        backgroundColor={colors.background}
+        backgroundColor={colors.primary}
         translucent
       />
       <Routes />
